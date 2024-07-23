@@ -5,11 +5,11 @@
 <details>
   <summary>Detail</summary>
 
-  **Member-1:** N Nagabhushanam, nnagabhushanam.221cs231@nitk.edu.in, +91-9113557631
+  **N Nagabhushanam** nnagabhushanam.221cs231@nitk.edu.in, +91-9113557631
   
-  **Member-2:** Palli Abhishek Kumar, palliabhishekkumar.221cs233@nitk.edu.in, +91-8328472495
+  **Palli Abhishek Kumar** palliabhishekkumar.221cs233@nitk.edu.in, +91-8328472495
   
-  **Member-3:** D Pramod Chaitanya, pramodchaitanya.221cs235@nitk.edu.in, +91-6305451581
+  **D Pramod Chaitanya** pramodchaitanya.221cs235@nitk.edu.in, +91-6305451581
 
 </details>
 
