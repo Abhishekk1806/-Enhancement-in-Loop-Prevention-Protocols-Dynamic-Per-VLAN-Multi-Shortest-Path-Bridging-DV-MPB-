@@ -22,7 +22,7 @@
   Additionally, loops can cause broadcast storms, impacting network performance. While traditional loop prevention mechanisms like the Spanning Tree Protocol (STP) 
   have been effective, the evolving complexity of network environments demands more efficient solutions. This paper provides a comprehensive review of loop prevention 
   protocols, including STP, Rapid Spanning Tree Protocol (RSTP), Multiple Spanning Tree Protocol (MSTP), Shortest Path Bridging (SPB), and Per-VLAN Spanning Tree (PVST). 
-  Further, this paper introduces Dynamic VLAN - Multi-Shortest Path Bridging (DV-MPB) as a potential solution to enhance loop prevention efficiency. DV-MPB combines the 
+  Further, this paper introduces **Dynamic VLAN - Multi-Shortest Path Bridging** (DV-MPB) as a potential solution to enhance loop prevention efficiency. DV-MPB combines the 
   strengths of SPB and PVST to achieve dynamic traffic optimization and reduce convergence time in loop prevention protocols.
   
 </details>
